@@ -3,10 +3,10 @@
 I built this  News App with NewsApi.org, In this News App the HomePage shows the Top Headline and you also see the News based on the categories.You can Share news with your friends.
 
 
-Installation
+* Installation
 
-    flutter pub get
+        flutter pub get
     
-Usage
+* Usage
 
-    flutter run
+        flutter run
